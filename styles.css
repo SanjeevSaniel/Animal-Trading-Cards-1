@@ -1,0 +1,49 @@
+body {
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid lightgray;
+    background-color: white;
+    border-radius: 1px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 5px 10px whitesmoke;
+}
+
+.animal-name {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    border: 2px;
+}
+
+.information {
+    border: 1px solid lightgray;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.animal-fact {
+    font-style: italic;
+}
+
+ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+span {
+    font-weight: bold;
+}
+
+li {
+    list-style: none;
+}
